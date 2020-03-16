@@ -1,0 +1,9 @@
+directories:
+  output: dist
+  buildResources: build
+appId: today.0-0.mypic
+asar: true
+mac:
+  icon: public/icons/mypic.icns
+  category: public.app-category.utilities
+electronVersion: 8.1.1
